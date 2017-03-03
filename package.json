@@ -1,0 +1,23 @@
+{
+  "name": "test_wallet",
+  "version": "0.1.0",
+  "description": "",
+  "main": "wallet.js",
+  "directories": {
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "smart-contracts",
+    "blockchain"
+  ],
+  "author": "Evgeny Yurtaev",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.2.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "web3": "^0.18.2"
+  }
+}
