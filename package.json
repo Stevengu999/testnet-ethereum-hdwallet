@@ -1,6 +1,6 @@
 {
   "name": "testnet_ethereum_hdwallet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module provides simple abstraction to export testnet wallet from 12-word mnemonic.",
   "main": "wallet.js",
   "directories": {
